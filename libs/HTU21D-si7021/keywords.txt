@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map HTU21D
+#######################################
+
+#######################################
+# Datatypes		(KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+readHumidity		KEYWORD2
+readCompensatedHumidity	KEYWORD2
+readTemperatureAfterRH	KEYWORD2
+readTemperature		KEYWORD2
+setResolution		KEYWORD2
+softReset		KEYWORD2
+batteryStatus		KEYWORD2
+setHeater		KEYWORD2
+readFirmwareVersion	KEYWORD2
+readDeviceID		KEYWORD2
+
+#######################################
+# Instances		(KEYWORD2)
+#######################################
+HTU21D			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
